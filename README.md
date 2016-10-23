@@ -18,7 +18,7 @@ A [Discord.js](http://hydrabolt.github.io/discord.js) bot for tracking Warframe 
 1. Clone this repo
 
     ```
-    git clone git@gitlab.imjake.me:tobiah/genesis.git
+    git clone git@github.aliasfalse/genesis.git
     ```
 2. Install mongodb server or obtain an available mongodb server
 
